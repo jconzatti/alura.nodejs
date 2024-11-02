@@ -1,0 +1,16 @@
+{
+  "name": "vidflow",
+  "version": "1.0.0",
+  "description": "Node.js e terminal: Dominando o ambiente de desenvolvimento front-end",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhoni Conzatti",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "eslint": "^9.14.0",
+    "globals": "^15.11.0"
+  }
+}
